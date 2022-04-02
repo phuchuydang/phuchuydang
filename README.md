@@ -17,7 +17,7 @@
 - :school: I am a `Junior` at Faculty of Information Technology at Ton Duc Thang University
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1YSG6y2BEevDXvGyPzM-hHBjeGBnvcgTY/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14y5OdmMKa4dIgZgf0CJCJ2TfLOh9AquT/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
