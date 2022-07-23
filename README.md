@@ -97,3 +97,21 @@
 </p>
 <br/>
 
+## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dphuytdt" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dphuytdt&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia%22%20alt=%227oSkaaa" height="192px"/>
+  <br/>
+  </p>
+
+
+
+
+<br/>
