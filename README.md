@@ -14,11 +14,22 @@
 
  -->
 ## :sassy_man:  About me
-- :school: I am a `Senior` at Faculty of Information Technology at Ton Duc Thang University
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1WFi8Guf4n4oPaPpPx3arMTTG1eVARQHd/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+- 👋 Hello, I'm PhucHuy.Dang!
+
+- 👨‍💻 As a Junior PHP Developer, I'm passionate about creating efficient and robust web applications. My skills and experiences include:
+
+- 💡 Proficiency in PHPUnit for writing and executing comprehensive unit tests.
+- 📦 Version control using Git to collaborate and maintain code repositories.
+- 🏗️ Applying Object-Oriented Programming (OOP) principles to develop clean and maintainable code.
+- 🏛️ Adherence to SOLID Design Principles for scalable and extensible software architecture.
+- 📚 Working with Doctrine in PHP for efficient database interactions.
+- 🐳 Utilizing Docker for containerization and streamlined development workflows.
+- 🌐 Designing and developing REST APIs for seamless communication between web services.
+- 📊 Familiarity with project management tools like Jira for organized and efficient teamwork.
+- 🚀 Experience with Sylius and API Platform to create cutting-edge web applications.
+- 🧩 Proficient in PHP and well-versed in the Symfony Framework, a powerful PHP web application framework.
+
+- 🔗 I'm excited to connect with like-minded professionals, learn from each other, and explore new opportunities in the world of web development. Let's connect and discuss how we can work together to build innovative web solutions.
 
 <br>
 
