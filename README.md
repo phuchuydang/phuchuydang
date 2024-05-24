@@ -16,7 +16,7 @@
 ## :sassy_man:  About me
 - 👋 Hello, I'm PhucHuy.Dang!
 
-- 👨‍💻 As a Junior PHP Developer, I'm passionate about creating efficient and robust web applications. My skills and experiences include:
+- 👨‍💻 As a Experienced PHP Developer, I'm passionate about creating efficient and robust web applications. My skills and experiences include:
 
 - 💡 Proficiency in PHPUnit for writing and executing comprehensive unit tests.
 - 📦 Version control using Git to collaborate and maintain code repositories.
